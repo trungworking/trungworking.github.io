@@ -3,7 +3,8 @@ layout: page
 title: About me
 ---
 
-Hello, I am Nonu!
+Hello, I am Trung!
 
-I am an outgoing Data Enthusiast with over 7 years of experience. I recently completed Data Analyst Nanodegree from Udacity and have shared some of the projects that I worked on as a part of my curriculum here. 
-Feel free to reach out to me on <strong><a href="https://www.linkedin.com/in/nonusingh">LinkedIn</a></strong> or drop me an <strong><a href="mailto:nonuatamd@gmail.com">email</a></strong>
+I am an outgoing Data Enthusiast with over 10 years of experience. I have strong skills in working with SQL Server, statistical analysis with SPSS for research and data analysis using Python.
+Feel free to reach out to me on LinkedIn or drop me an <strong><a href="mailto:trungworking@gmail.com">email</a></strong>.
+
